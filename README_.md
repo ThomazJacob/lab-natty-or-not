@@ -12,4 +12,5 @@ Por meio do chat foram solicitadas sugestões para o assunto do ebook. Após sel
 apresentados no prompt foi solicitado que a IA assumisse o papel de escritor e gerasse o ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link para Ebook: https://drive.google.com/file/d/1HU9j6ljLioxn4NBeByJfuVcVHM3m7AX4/view?usp=sharing 
+
